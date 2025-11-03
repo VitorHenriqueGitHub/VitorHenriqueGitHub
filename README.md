@@ -10,11 +10,11 @@
 
 - :school: Tenho formação como [Tecnico em TI](https://portal.ifsuldeminas.edu.br/) pelo [Instituto Federal de educação, ciência e tecnologia do Sul de Minas](https://portal.ifsuldeminas.edu.br/).
 - :school: Atualmente sou estudante de graduação de [Ciência da Computação](https://portal.ifsuldeminas.edu.br/) no [Instituto Federal de educação, ciência e tecnologia do Sul de Minas](https://portal.ifsuldeminas.edu.br/).
-- :trophy: Participei do 2023 ICPC South America/Brazil First Phase.
+- :trophy: Participei da `14° Olimpíada Interna de Programação do IFSULDEMINAS` em 2025.
 - :computer: Pratico programação competitiva no `Codewars`, `beecrowd`, `Leetcode`.
-- :student: No momento, estou me dedicando ao estudo de `Ciência da Computação` e `Engenharia de Software`.
-- :nerd_face: Sempre em busca de `aprendizado`.
-- :thinking: Atualmente estou aberto a novas `oportunidades de trabalho`.
+- :student: No momento, estou me dedicando ao estudo de `Ciência da Computação`, `CyberSegurança` e `Engenharia de Software`.
+- :nerd_face: Estou sempre em busca de `conhecimento`, eu consigo admitir a minha propria ignorancia, mas jamais me permito permanecer nela.
+- :thinking: Atualmente estou aberto a novas `oportunidades de trabalho` na área de back-end.
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> Meus Perfis de Programação Competitiva
