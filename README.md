@@ -8,7 +8,7 @@
 
 <br>
 
-- :school: Tenho formação como [Tecnico em TI](https://portal.ifsuldeminas.edu.br/) pelo [Instituto Federal de educação, ciência e tecnologia do Sul de Minas](https://portal.ifsuldeminas.edu.br/).
+- :school: Tenho formação como [Técnico em TI](https://portal.ifsuldeminas.edu.br/) pelo [Instituto Federal de educação, ciência e tecnologia do Sul de Minas](https://portal.ifsuldeminas.edu.br/).
 - :school: Atualmente sou estudante de graduação de [Ciência da Computação](https://portal.ifsuldeminas.edu.br/) no [Instituto Federal de educação, ciência e tecnologia do Sul de Minas](https://portal.ifsuldeminas.edu.br/).
 - :trophy: Participei da `14° Olimpíada Interna de Programação do IFSULDEMINAS` em 2025.
 - :computer: Pratico programação competitiva no `Codewars`, `beecrowd`, `Leetcode`.
@@ -28,9 +28,9 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Vamos nos conectar
 <p align="center">
-	<a href="https://github.com/RfaelDePadua"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" target="_blank" width="48" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/rfaelpadua"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/raf_padua/"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" width="48" alt="Instagram"/></a>
+	<a href="https://github.com/VitorHenriqueGitHub"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" target="_blank" width="48" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/vitor-henrique-nascimento-almeida-134929278/"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/vitorhenrique1927/"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" width="48" alt="Instagram"/></a>
 </p>
 
 
