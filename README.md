@@ -8,7 +8,8 @@
 
 <br>
 
-- :school: Sou estudante de graduação de [Ciência da Computação](https://portal.ifsuldeminas.edu.br/) na [Instituto Federal de educação, ciência e tecnologia do Sul de Minas](https://portal.ifsuldeminas.edu.br/).
+- :school: Tenho formação como [Tecnico em TI](https://portal.ifsuldeminas.edu.br/) pelo [Instituto Federal de educação, ciência e tecnologia do Sul de Minas](https://portal.ifsuldeminas.edu.br/).
+- :school: Atualmente sou estudante de graduação de [Ciência da Computação](https://portal.ifsuldeminas.edu.br/) no [Instituto Federal de educação, ciência e tecnologia do Sul de Minas](https://portal.ifsuldeminas.edu.br/).
 - :trophy: Participei do 2023 ICPC South America/Brazil First Phase.
 - :computer: Pratico programação competitiva no `Codewars`, `beecrowd`, `Leetcode`.
 - :student: No momento, estou me dedicando ao estudo de `Ciência da Computação` e `Engenharia de Software`.
