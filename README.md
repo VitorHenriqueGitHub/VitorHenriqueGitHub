@@ -76,12 +76,7 @@
     <a href="https://github.com/"><img alt="GitHub" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40"></a>
     &emsp;
     <a href="https://docs.google.com/spreadsheets/u/1/?hl=pt-br"><img alt="Excel" src="https://github.com/syvixor/skills-icons/blob/main/icons/microsoftexcel.svg" width="40" /></a>
-    &emsp;
-    <a href="https://netbeans.apache.org/"><img alt="NetBeans" src="https://github.com/syvixor/skills-icons/blob/main/icons/netbeans.svg" width="40"/></a>
-	&emsp;
-    <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJidea" src="https://github.com/syvixor/skills-icons/blob/main/icons/intellijidea.svg" width="40"/></a>
-	&emsp;
-    <a href="https://nodejs.org/pt"><img alt="Node" src="https://github.com/syvixor/skills-icons/blob/main/icons/nodejs.svg" width="40"/></a>
+   
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
@@ -91,6 +86,12 @@
     <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40"></a>
   &emsp;
     <a href="https://visualstudio.microsoft.com/pt-br/#vs-section"><img alt="Visual Studio" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="40" /></a>
+	 &emsp;
+    <a href="https://netbeans.apache.org/"><img alt="NetBeans" src="https://github.com/syvixor/skills-icons/blob/main/icons/netbeans.svg" width="40"/></a>
+	&emsp;
+    <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJidea" src="https://github.com/syvixor/skills-icons/blob/main/icons/intellijidea.svg" width="40"/></a>
+	&emsp;
+    <a href="https://nodejs.org/pt"><img alt="Node" src="https://github.com/syvixor/skills-icons/blob/main/icons/nodejs.svg" width="40"/></a>
 </p>
 
 
