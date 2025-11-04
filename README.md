@@ -47,7 +47,7 @@
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="Java" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="40" >
+    <img alt="Java" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="40" >
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
