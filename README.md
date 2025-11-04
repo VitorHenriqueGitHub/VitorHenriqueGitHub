@@ -62,12 +62,12 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend 
 <p align="center"> 
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
+     <img alt="HTML5" src="https://github.com/syvixor/skills-icons/blob/main/icons/html.svg" width="40">
    </a>
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
+     <img alt="CSS3" src="https://github.com/syvixor/skills-icons/blob/main/icons/css3.svg" width="40">
    </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
