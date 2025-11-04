@@ -74,9 +74,11 @@
     <a href="https://git-scm.com/"><img alt="Git" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40"></a>
   &emsp;
     <a href="https://github.com/"><img alt="GitHub" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40"></a>
-    &emsp;
+	&emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://github.com/syvixor/skills-icons/blob/main/icons/mysql.svg" width="40"></a>
+	&emsp;
     <a href="https://docs.google.com/spreadsheets/u/1/?hl=pt-br"><img alt="Excel" src="https://github.com/syvixor/skills-icons/blob/main/icons/microsoftexcel.svg" width="40" /></a>
-   
+	
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
