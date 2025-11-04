@@ -110,9 +110,4 @@
 ---
 
 <br>
-
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?quote=I%20was%20not%20born%20with%20knowledge%20but,%20being%20fond%20of%20antiquity,%20I%20am%20quick%20to%20seek%20it.&author=Confucius&type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
-
 <!-- https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/7oSkaaa.md -->
