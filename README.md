@@ -13,7 +13,7 @@
 - :trophy: Participei da `14° Olimpíada Interna de Programação do IFSULDEMINAS` em 2025.
 - :computer: Pratico programação competitiva no `Codewars`, `beecrowd`, `Leetcode`.
 - :student: No momento, estou me dedicando ao estudo de `Ciência da Computação`, `CyberSegurança` e `Engenharia de Software`.
-- :nerd_face: Estou sempre em busca de `conhecimento`, eu consigo admitir a minha propria ignorancia, mas jamais me permito permanecer nela.
+- :nerd_face: Estou sempre em busca de `conhecimento`, embora eu consiga admitir a minha propria ignorancia, eu jamais me permito permanecer nela.
 - :thinking: Atualmente estou aberto a novas `oportunidades de trabalho` na área de back-end.
 
 
@@ -47,7 +47,7 @@
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="40" >
+    <img alt="Java" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="40" >
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
