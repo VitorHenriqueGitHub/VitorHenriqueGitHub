@@ -75,13 +75,13 @@
   &emsp;
     <a href="https://github.com/"><img alt="GitHub" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40"></a>
     &emsp;
-    <a href="https://docs.google.com/spreadsheets/u/1/?hl=pt-br"><img alt="LaTex" src="https://github.com/syvixor/skills-icons/blob/main/icons/microsoftexcel.svg" width="40" /></a>
+    <a href="https://docs.google.com/spreadsheets/u/1/?hl=pt-br"><img alt="Excel" src="https://github.com/syvixor/skills-icons/blob/main/icons/microsoftexcel.svg" width="40" /></a>
     &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQLsrc=" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40"/></a>
+    <a href="https://netbeans.apache.org/"><img alt="NetBeans" src="https://github.com/syvixor/skills-icons/blob/main/icons/netbeans.svg" width="40"/></a>
 	&emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQLsrc=" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40"/></a>
+    <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJidea" src="https://github.com/syvixor/skills-icons/blob/main/icons/intellijidea.svg" width="40"/></a>
 	&emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQLsrc=" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40"/></a>
+    <a href="https://nodejs.org/pt"><img alt="Node" src="https://github.com/syvixor/skills-icons/blob/main/icons/nodejs.svg" width="40"/></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
