@@ -17,15 +17,6 @@
 - :thinking: Atualmente estou aberto a novas `oportunidades de trabalho` na área de back-end.
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> Meus Perfis de Programação Competitiva
-
-<p align="center">
-  <a href="https://www.beecrowd.com.br/judge/pt/profile/862308"><img src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" width="60" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/Rfae/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://www.codewars.com/users/Rfael-Padua"><img src="https://docs.codewars.com/logo.svg" alt="AtCoder" width = "55"/></a>
-	<a href="https://icpc.global/ICPCID/49KXBJR048TN"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
-</p>
-
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Vamos nos conectar
 <p align="center">
 	<a href="https://github.com/VitorHenriqueGitHub"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" target="_blank" width="48" alt="GitHub"/></a>
