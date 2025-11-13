@@ -11,6 +11,7 @@
 - :school: Tenho formação como [Técnico em TI](https://portal.ifsuldeminas.edu.br/) pelo [Instituto Federal de educação, ciência e tecnologia do Sul de Minas](https://portal.ifsuldeminas.edu.br/).
 - :school: Atualmente sou estudante de graduação de [Ciência da Computação](https://portal.ifsuldeminas.edu.br/) no [Instituto Federal de educação, ciência e tecnologia do Sul de Minas](https://portal.ifsuldeminas.edu.br/).
 - :trophy: Participei da `14° Olimpíada Interna de Programação do IFSULDEMINAS` em 2025.
+- :teacher: Atuei como Professor de `Hacking e CyberSegurança` no `ENCOMP 2025`
 - :computer: Pratico programação competitiva no `Codewars`, `beecrowd`, `Leetcode`.
 - :student: No momento, estou me dedicando ao estudo de `Ciência da Computação`, `CyberSegurança` e `Engenharia de Software`.
 - :nerd_face: Estou sempre em busca de `conhecimento`, embora eu consiga admitir a minha propria ignorancia, eu jamais me permito permanecer nela.
